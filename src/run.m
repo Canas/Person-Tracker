@@ -1,0 +1,11 @@
+setupSystemObjects
+
+initializeTracks
+
+initializeInfo
+
+detectObjects
+
+predictNewLocationsOfTracks
+
+detectionToTrackAssignment
